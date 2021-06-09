@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @prabaljeetsingh
+- 👀 I’m interested in learning Web-Development, Machine Learning and Data Science
+- 🌱 I’m currently learning, Back-end Development, Angular, React(SPA) and Keras.
+- 📫 How to reach me Email: prabaljeetsingh609@gmail.com
